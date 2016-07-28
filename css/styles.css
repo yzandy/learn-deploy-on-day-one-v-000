@@ -133,6 +133,16 @@ a:visited {
   height: 400px;
 }
 
+
+
+#andy-newcomb-cover {
+    background-image: url("http://imgur.com/KRmaht2.jpg");
+}
+ 
+#andy-newcomb-card {
+    background-image: url("http://imgur.com/otEgAet.jpg");
+}
+
 #adam-cooper-cover{
    background-image: url("http://i.imgur.com/UusfOSS.jpg");
 }
